@@ -58,7 +58,8 @@ print('connection closed')
 ```
 ## OUPUT
 Refer to the following image to view the output of the program.
-![Output](image.png)
+<img width="1260" height="238" alt="image" src="https://github.com/user-attachments/assets/2e2f61ba-7be7-4a01-9b1e-0f69814bfb37" />
+
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
 successfully created and executed.
